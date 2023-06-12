@@ -6,7 +6,6 @@ Este repositório contém um projeto de relógio dinâmico responsivo desenvolvi
 
 Uma demonstração ao vivo do projeto pode ser encontrada [aqui](https://exemplo.com).
 
-![Demo do Relógio Dinâmico](screenshot.png)
 
 ## Recursos
 
