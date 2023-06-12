@@ -1,35 +1,31 @@
-<!--
-    TITLE:      README
-    AUTOR:      MATTHEUS PEREIRA
-    DATA_INIT:  06.06.2023
+ # Relógio Dinâmico
 
-    PROJECT:    Relogio dinâmico
-    
-    CONNECT ME:
-        Linkedin: https://www.linkedin.com/in/gustavo-gon%C3%A7alves-dias-neves-3b76b3252/](https://github.com/mattheusp)
-        github (curr-account): https://github.com/mattheusp
- -->
- 
- <h1 align="center" alt="relogio-dinamico"><strong> Relogio dinâmico</strong></h1>
+Este repositório contém um projeto de relógio dinâmico responsivo desenvolvido com HTML, CSS e JavaScript. O relógio exibe a hora atual e é adaptável a diferentes tamanhos de tela.
 
- <br/>
+## Demonstração
 
- <p align="center" alt="descrição">Projeto criado para desenvolver um relogio dinamico e responsivo</p>
- 
- <br/><hr/>
- 
- <h2>Tecnologias utilizadas</h2>
+Uma demonstração ao vivo do projeto pode ser encontrada [aqui](https://exemplo.com).
 
-- **[HMTL - HyperText Markup Language](#html)**<br/>
-- **[CSS - Cascading Style Sheets](#css)**<br/>
-- **[JavaScript](#javascript)**<br/>
+![Demo do Relógio Dinâmico](screenshot.png)
 
-<br/><hr/>
+## Recursos
 
-<!-- 
-    LOCAL VARIABLES
- -->
+- Exibe a hora atual em formato de 24 horas
+- Atualiza automaticamente a cada segundo
+- Design responsivo que se adapta a diferentes dispositivos e tamanhos de tela
 
-[html]: https://github.com/mattheusp/relogio-dinamico_HTML_CSS_JS/blob/main/index.html
-[css]: https://github.com/mattheusp/relogio-dinamico_HTML_CSS_JS/blob/main/syles.css
-[javascript]: https://github.com/mattheusp/relogio-dinamico_HTML_CSS_JS/blob/main/scripts.js
+## Pré-requisitos
+
+Antes de utilizar o relógio dinâmico, verifique se você possui os seguintes requisitos:
+
+- Navegador web atualizado (Google Chrome, Mozilla Firefox, Safari, etc.)
+
+## Uso
+
+Para utilizar o relógio dinâmico em seu projeto, siga as etapas abaixo:
+
+1. Faça um clone deste repositório ou baixe os arquivos ZIP.
+2. Abra o arquivo `index.html` em seu navegador web.
+
+```bash
+git clone https://github.com/mattheusp/relogio-dinamico_HTML_CSS_JS
