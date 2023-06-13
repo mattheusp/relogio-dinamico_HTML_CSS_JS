@@ -2,10 +2,6 @@
 
 Este repositório contém um projeto de relógio dinâmico responsivo desenvolvido com HTML, CSS e JavaScript. O relógio exibe a hora atual e é adaptável a diferentes tamanhos de tela.
 
-## Demonstração
-
-Uma demonstração ao vivo do projeto pode ser encontrada [aqui](https://exemplo.com).
-
 
 ## Recursos
 
