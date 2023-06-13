@@ -14,7 +14,15 @@ Antes de utilizar o relógio dinâmico, verifique se você possui os seguintes r
 
 - Navegador web atualizado (Google Chrome, Mozilla Firefox, Safari, etc.)
 
-## Uso 
+## Contato ✉️
+
+- E-mail: mattheusp382@gmail.com
+- LinkedIn: [Mattheus-Pereira](https://www.linkedin.com/in/mattheuspereira/)
+- Instagram - https://www.instagram.com/mattheusp_dev/
+- Portfólio: [seu-website.com](https://www.seu-website.com)
+
+
+## Uso 🛠️
 
 Para utilizar o relógio dinâmico em seu projeto, siga as etapas abaixo:
 
@@ -23,3 +31,7 @@ Para utilizar o relógio dinâmico em seu projeto, siga as etapas abaixo:
 
 ```bash
 git clone https://github.com/mattheusp/relogio-dinamico_HTML_CSS_JS
+
+## Licença ⚖️
+
+Este projeto está licenciado sob a Licença MIT(https://opensource.org/licenses/MIT) - consulte o arquivo [LICENSE.md](LICENSE.md) para obter mais detalhes.
